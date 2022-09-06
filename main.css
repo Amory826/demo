@@ -347,10 +347,11 @@ img{
     border: 1px solid #eee;
     background: #fff;
     width: 25%;
+    padding: 20px;
 }
 
 .img-logo{
-    padding: 30px;
+    padding: 70px;
     width: 100%;
     filter: grayscale(100%);
 }
